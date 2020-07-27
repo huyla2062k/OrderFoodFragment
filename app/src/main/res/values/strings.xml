@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OrderFood</string>
+    <string name="textWelcome">Welcome to FoodStuck</string>
+    <string name="textTotal">Total Price</string>
+    <string name="textOrder">Order</string>
+    <string name="textTenDolal">10$</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">UserName</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="remember">Remember me</string>
+    <string name="forgotpass">Forgot your password?</string>
+    <string name="oder">Your Order</string>
+    <string name="back">Back to Main</string>
+    <string name="logfail">Log in failed</string>
+
+</resources>
